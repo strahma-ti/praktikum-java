@@ -1,15 +1,7 @@
 package PRAKTIKUM01;
 import java.util.Scanner;
 import java.text.DecimalFormat;
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 
-/**
- *
- * @author WINDOWS
- */
 public class PRAK105_2110817120011_SITIRAHMAH {
     public static void main(String[] args){
         //--deklarasi variabel dan scanner
