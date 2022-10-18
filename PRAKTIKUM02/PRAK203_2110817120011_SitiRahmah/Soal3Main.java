@@ -7,8 +7,6 @@ public class Soal3Main {
     //p1.nama = "Roi"
     p1.nama = "Roi";
     p1.asal = "Kingdom of Orvel";
-    //Pada baris ini terjadi error karena deklarasi tidak sesuai dengan....
-    //p1.jabatan = "Assasin";
     p1.setJabatan ("Assasin");
     //Kurang deklarasi pada property umur
     p1.umur = 17;
