@@ -2,7 +2,7 @@ package PRAKTIKUM01;
 import java.util.Scanner;
 
 public class PRAK101_2110817120011_SITIRAHMAH {
-    public static void main(String[] args) {
+    public stati void main(String[] args) {
         
         //--deklarasi variabel
         String nama, tempatlahir;
